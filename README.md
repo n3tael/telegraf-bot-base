@@ -1,4 +1,4 @@
-> [Версия на русском](https://github.com/n3tael/telegraf-bot-base/README_ru.md)
+> [Версия на русском](https://github.com/n3tael/telegraf-bot-base/blob/master/README_ru.md)
 # telegraf-bot-base
 Base for creating bots on telegraf.js
 
