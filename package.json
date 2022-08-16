@@ -1,0 +1,29 @@
+{
+  "name": "telegraf-bot-base",
+  "version": "1.0.0",
+  "description": "Telegraf bot base. Use this template to build you own bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n3tael/telegraf-bot-base.git"
+  },
+  "keywords": [
+    "telegram",
+    "telegraf.js",
+    "bot"
+  ],
+  "author": "N3tael",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/n3tael/telegraf-bot-base/issues"
+  },
+  "homepage": "https://github.com/n3tael/telegraf-bot-base#readme",
+  "dependencies": {
+    "sequelize": "^6.21.3",
+    "sqlite3": "^5.0.11",
+    "telegraf": "^4.8.6"
+  }
+}

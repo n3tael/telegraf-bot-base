@@ -1,0 +1,5 @@
+{
+    "token":"Your bot token, from @botfather",
+    "ownerID": [ 123456789 ],
+    "debugMode": false
+}
